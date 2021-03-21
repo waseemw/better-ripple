@@ -2,19 +2,6 @@
 
 A material ripple for Angular that does not activate when swiping
 
-## Demo
-
-<https://waseemw.github.io/better-ripple/demo>
-
-## Table Of contents
-
-- [Features](#features)
-- [Installation](#installation)
-- [API](#api)
-- [Example](#example)
-- [Development](#development)
-- [License](#license)
-
 ## Features
 
 - Ripple timeout: timeout before the ripple is activated, so that it doesn't activate while scrolling. It also actives immediately on mousedown, and the click event as
@@ -44,16 +31,6 @@ You can check the demo for a complete example, and here is the basic usage:
 </mat-card>
 ```
 
-## Development
+## Demo
 
-### Build library
-
-Run `ng build better-ripple` to build the library. The build artifacts will be stored in the `dist` directory.
-
-### Build & run demo
-
-Before running the demo, build the library as mentioned above, and then run the demo with `ng serve demo`
-
-## License
-
-[MIT License](LICENSE)
+<https://waseemw.github.io/better-ripple/demo>

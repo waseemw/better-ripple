@@ -1,0 +1,10 @@
+<div>
+  <mat-card matRipple *ngFor="let n of arrayOfElements(8); let i = index;">
+    <mat-card-header>Using matRipple</mat-card-header>
+    <mat-card-content style="margin-bottom: 0">Ripple will activate while scrolling</mat-card-content>
+  </mat-card>
+  <mat-card betterRipple *ngFor="let n of arrayOfElements(8); let i = index;">
+    <mat-card-header>Using betterRipple</mat-card-header>
+    <mat-card-content style="margin-bottom: 0">Ripple will NOT activate while scrolling</mat-card-content>
+  </mat-card>
+</div>
