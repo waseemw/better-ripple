@@ -1,11 +1,31 @@
 {
   "name": "better-ripple",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "peerDependencies": {
     "@angular/common": "^11.2.6",
     "@angular/core": "^11.2.6"
   },
   "dependencies": {
     "tslib": "^2.0.0"
-  }
+  },
+  "keywords": [
+    "angular",
+    "matripple",
+    "material",
+    "ripple"
+  ],
+  "author": {
+    "url": "https://waseemw.com",
+    "email": "waseem.wasaya@outlook.com",
+    "name": "Waseem Wasaya"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/waseemw/better-ripple.git"
+  },
+  "bugs": {
+    "url": "https://github.com/waseemw/better-ripple/issues"
+  },
+  "homepage": "https://github.com/waseemw/better-ripple"
 }

@@ -1,7 +1,7 @@
 {
   "name": "better-ripple",
   "description": "A material ripple for Angular that does not activate when swiping",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -56,6 +56,7 @@
     "email": "waseem.wasaya@outlook.com",
     "name": "Waseem Wasaya"
   },
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/waseemw/better-ripple.git"
