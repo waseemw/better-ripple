@@ -23,7 +23,9 @@ A material ripple for Angular that does not activate when swiping
 
 ## Installation
 
-Add 'betterRipple' directive to any component to add the ripple effect; betterRipple extends matRipple so anything that worked with matRipple will work with betterRipple.
+1. Install with npm using `npm i better-ripple`
+2. Import the library in your module with `import { BetterRippleModule } from 'better-ripple';` and add `BetterRippleModule` to your imports
+3. Add 'betterRipple' directive to any component to add the ripple effect; betterRipple extends matRipple so anything that worked with matRipple will work with betterRipple
 
 ## API
 

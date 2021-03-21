@@ -1,7 +1,7 @@
 {
   "name": "better-ripple",
   "description": "A material ripple for Angular that does not activate when swiping",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
